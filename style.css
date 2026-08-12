@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(18, 18, 221);
+    color: aqua;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+
+    padding: 16px;    
+}
+
+main{
+    background-color: rgb(16, 245, 188);
+    color: rgb(0, 225, 255);
+display: flex;
+}
+
+img{
+    height: 700px;
+    width: 800px;
+}
+
+div p {
+    font-weight: bold;
+}
